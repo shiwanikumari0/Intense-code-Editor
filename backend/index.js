@@ -7,7 +7,7 @@ import axios from "axios";
 const app = express();
 
 const server = http.createServer(app);
-//const url = `https://intense-code-editor-2-dd2z.onrender.com`;
+const url = `https://intense-code-editor-2-dd2z.onrender.com`;
 const interval = 30000;
 
 function reloadWebsite() {
